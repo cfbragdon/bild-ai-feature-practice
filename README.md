@@ -8,3 +8,5 @@ i added this while on my-new-branch
 
 i added another edit while on-my-new-branch
 
+I am not going to forget a message on this next commit
+
